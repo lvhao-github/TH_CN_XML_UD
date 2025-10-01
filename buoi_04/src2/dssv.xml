@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DSSV xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="dssv.xsd">
+
+  <!-- Khoa CNTT -->
+  <Khoa>
+    <MaKhoa>K01</MaKhoa>
+    <TenKhoa>IT</TenKhoa>
+    <Lop>
+      <MaLop>L01</MaLop>
+      <TenLop>Kỹ thuật phần mềm</TenLop>
+      <SinhVien>
+        <MSSV>SV001</MSSV>
+        <HoTen>Nguyen Van An</HoTen>
+        <Email>an.nguyen@gmail.com</Email>
+        <DiaChi>Can Tho</DiaChi>
+        <SDT>0912345678</SDT>
+      </SinhVien>
+      <SinhVien>
+        <MSSV>SV002</MSSV>
+        <HoTen>Tran Thi Bao</HoTen>
+        <Email>bao.tran@gmail.com</Email>
+        <DiaChi>Hau Giang</DiaChi>
+        <SDT>0934567890</SDT>
+      </SinhVien>
+    </Lop>
+    <Lop>
+      <MaLop>L02</MaLop>
+      <TenLop>Hệ thống thông tin</TenLop>
+      <SinhVien>
+        <MSSV>SV003</MSSV>
+        <HoTen>Le Van Cuong</HoTen>
+        <Email>cuong.le@gmail.com</Email>
+        <DiaChi>Vinh Long</DiaChi>
+        <SDT>0901122334</SDT>
+      </SinhVien>
+    </Lop>
+  </Khoa>
+
+  <!-- Khoa Kinh tế -->
+  <Khoa>
+    <MaKhoa>K02</MaKhoa>
+    <TenKhoa>Kinhte</TenKhoa>
+    <Lop>
+      <MaLop>L03</MaLop>
+      <TenLop>Quản trị kinh doanh</TenLop>
+      <SinhVien>
+        <MSSV>SV004</MSSV>
+        <HoTen>Pham Thi Dao</HoTen>
+        <Email>dao.pham@gmail.com</Email>
+        <DiaChi>Soc Trang</DiaChi>
+        <SDT>0976543210</SDT>
+      </SinhVien>
+      <SinhVien>
+        <MSSV>SV005</MSSV>
+        <HoTen>Hoang Van Em</HoTen>
+        <Email>em.hoang@gmail.com</Email>
+        <DiaChi>Bac Lieu</DiaChi>
+        <SDT>0923456789</SDT>
+      </SinhVien>
+    </Lop>
+    <Lop>
+      <MaLop>L04</MaLop>
+      <TenLop>Tài chính ngân hàng</TenLop>
+      <SinhVien>
+        <MSSV>SV006</MSSV>
+        <HoTen>Nguyen Thi Hoa</HoTen>
+        <Email>hoa.nguyen@gmail.com</Email>
+        <DiaChi>Tra Vinh</DiaChi>
+        <SDT>0961234567</SDT>
+      </SinhVien>
+    </Lop>
+  </Khoa>
+
+  <!-- Khoa Ngôn ngữ -->
+  <Khoa>
+    <MaKhoa>K03</MaKhoa>
+    <TenKhoa>Ngoaingu</TenKhoa>
+    <Lop>
+      <MaLop>L05</MaLop>
+      <TenLop>Tiếng Anh thương mại</TenLop>
+      <SinhVien>
+        <MSSV>SV007</MSSV>
+        <HoTen>Tran Bao Khanh</HoTen>
+        <Email>khanh.tran@gmail.com</Email>
+        <DiaChi>Ben Tre</DiaChi>
+        <SDT>0949876543</SDT>
+      </SinhVien>
+    </Lop>
+    <Lop>
+      <MaLop>L06</MaLop>
+      <TenLop>Ngôn ngữ Trung Quốc</TenLop>
+      <SinhVien>
+        <MSSV>SV008</MSSV>
+        <HoTen>Nguyen Van Long</HoTen>
+        <Email>long.nguyen@gmail.com</Email>
+        <DiaChi>Tien Giang</DiaChi>
+        <SDT>0952233445</SDT>
+      </SinhVien>
+      <SinhVien>
+        <MSSV>SV009</MSSV>
+        <HoTen>Pham Bao Minh</HoTen>
+        <Email>minh.pham@gmail.com</Email>
+        <DiaChi>Ca Mau</DiaChi>
+        <SDT>0919988776</SDT>
+      </SinhVien>
+    </Lop>
+  </Khoa>
+
+</DSSV>
